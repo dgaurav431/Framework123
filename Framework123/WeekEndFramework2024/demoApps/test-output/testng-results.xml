@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-17T07:51:55Z" name="Default suite" finished-at="2024-02-17T07:52:09Z" duration-ms="14065">
+    <groups>
+    </groups>
+    <test started-at="2024-02-17T07:51:55Z" name="Default test" finished-at="2024-02-17T07:52:09Z" duration-ms="14065">
+      <class name="webElement.textbox.ToRegisterUserAndLoginUser">
+        <test-method is-config="true" signature="bs()[pri:0, instance:webElement.textbox.ToRegisterUserAndLoginUser@3403e2ac]" started-at="2024-02-17T07:51:55Z" name="bs" finished-at="2024-02-17T07:51:55Z" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bs -->
+        <test-method is-config="true" signature="bc()[pri:0, instance:webElement.textbox.ToRegisterUserAndLoginUser@3403e2ac]" started-at="2024-02-17T07:51:55Z" name="bc" finished-at="2024-02-17T07:52:03Z" duration-ms="7695" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bc -->
+        <test-method is-config="true" signature="bm()[pri:0, instance:webElement.textbox.ToRegisterUserAndLoginUser@3403e2ac]" started-at="2024-02-17T07:52:03Z" name="bm" finished-at="2024-02-17T07:52:03Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method signature="toRegisterUser()[pri:1, instance:webElement.textbox.ToRegisterUserAndLoginUser@3403e2ac]" started-at="2024-02-17T07:52:03Z" name="toRegisterUser" finished-at="2024-02-17T07:52:08Z" duration-ms="4782" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- toRegisterUser -->
+        <test-method is-config="true" signature="am()[pri:0, instance:webElement.textbox.ToRegisterUserAndLoginUser@3403e2ac]" started-at="2024-02-17T07:52:08Z" name="am" finished-at="2024-02-17T07:52:08Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- am -->
+        <test-method is-config="true" signature="bm()[pri:0, instance:webElement.textbox.ToRegisterUserAndLoginUser@3403e2ac]" started-at="2024-02-17T07:52:08Z" name="bm" finished-at="2024-02-17T07:52:08Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method signature="toLoginUser()[pri:2, instance:webElement.textbox.ToRegisterUserAndLoginUser@3403e2ac]" started-at="2024-02-17T07:52:08Z" name="toLoginUser" finished-at="2024-02-17T07:52:09Z" depends-on-methods="webElement.textbox.ToRegisterUserAndLoginUser.toRegisterUser" duration-ms="860" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- toLoginUser -->
+        <test-method is-config="true" signature="am()[pri:0, instance:webElement.textbox.ToRegisterUserAndLoginUser@3403e2ac]" started-at="2024-02-17T07:52:09Z" name="am" finished-at="2024-02-17T07:52:09Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- am -->
+        <test-method is-config="true" signature="ac()[pri:0, instance:webElement.textbox.ToRegisterUserAndLoginUser@3403e2ac]" started-at="2024-02-17T07:52:09Z" name="ac" finished-at="2024-02-17T07:52:09Z" duration-ms="667" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ac -->
+        <test-method is-config="true" signature="as()[pri:0, instance:webElement.textbox.ToRegisterUserAndLoginUser@3403e2ac]" started-at="2024-02-17T07:52:09Z" name="as" finished-at="2024-02-17T07:52:09Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- as -->
+      </class> <!-- webElement.textbox.ToRegisterUserAndLoginUser -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
